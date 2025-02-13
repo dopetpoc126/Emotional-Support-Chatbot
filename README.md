@@ -6,4 +6,4 @@ This project involves an emotive AI-powered chatbot that can alter its answers a
 ✅ AI Responses: Uses Google Gemini API to generate smart, concise replies. 
 ✅ Reasoning Dropdown: Displays detected emotions alongside bot responses. 
 ✅ Interactive UI: Sleek design with animations for a smooth experience.
-✅ Voice response: Can give the responses in voice as well/
+✅ Voice response: Can give the responses in voice as well.
