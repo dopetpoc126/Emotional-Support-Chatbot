@@ -2,8 +2,14 @@ This project involves an emotive AI-powered chatbot that can alter its answers a
 
 **Features**
 ✅ Accurate Emotion Detection: AI analyzes user input and detects emotions like joy, sadness, anger, etc. It is even able to understand complex emotions such as sarcasm.
+
 ✅ Chatbot Personas: Users can choose a chatbot personality (e.g., Shah Rukh Khan, Sydney Sweeney).
+
 ✅ AI Responses: Uses Google Gemini API to generate smart, concise replies. 
+
 ✅ Reasoning Dropdown: Displays detected emotions alongside bot responses. 
+
 ✅ Interactive UI: Sleek design with animations for a smooth experience.
+
 ✅ Voice response: Can give the responses in voice as well.
+
